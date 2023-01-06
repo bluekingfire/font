@@ -1,0 +1,29 @@
+#bod {
+
+    background-image: url("download.jpg");
+}
+
+#hea {
+
+    font-size: 30;
+    border-radius: 20px;
+}
+
+#par {
+
+    width: 75%;
+    font-size: 30;
+    border-radius: 20px;
+    border-color: chartreuse;
+}
+
+#copy_right_footer {
+
+    position: fixed;
+    width: 100%;
+    background-color: whitesmoke;
+    font-size: 20px;
+    bottom: 0;
+}
+
+
